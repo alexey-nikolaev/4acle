@@ -1,0 +1,3 @@
+title=4acle
+author=Alexey Nikolaev
+orientation=portrait
